@@ -26,7 +26,6 @@ echo "The largest number is: $largest"
 
 
 
-
 ##output
 #Which one is smallest and which one is largest: '87 16 290 34 5'
 #The smallest number is: 5
