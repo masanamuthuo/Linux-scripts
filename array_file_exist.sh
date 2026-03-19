@@ -12,6 +12,7 @@ for i in ${files[@]}
 done
 
 
+
 #output:
 #The File does not exist: a1.txt
 #The File exists a2.txt
